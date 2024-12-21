@@ -27,7 +27,6 @@ function App() {
         <Route path="/doctors/:speciality" element={<Doctors/>}/>
       </Routes>
       <Footer/>
-      
     </div>
   )
 }
